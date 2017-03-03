@@ -1,3 +1,3 @@
 # mysecondgitproject
-what this?
+what is this?
 我的第二个git项目
